@@ -6,7 +6,7 @@ This website uses React and Vite. Appwrite was used to handle the backend and da
 On the website, users can press a button to randomly generate a quote, and they can also input their own quotes to be generated.
 
 # Setup Instructions:
-1. Clone the repo
+1. Clone the repo\n
    Run the following in the terminal:
      git clone https://github.com/ItsVathanak/quote-gen-app.git
      cd quote-gen-app
